@@ -33,7 +33,7 @@ public:
         // // better then method one bcose 
         // // 1 -> asignment operation (vis[nums[i]] = true) takes less time then increment operator (freq[nums[i]]++)
         // // 2 -> boolen value takes less space then integer value 
-        
+        6
 
 
         // //Method-3 (Playing with indexes)
