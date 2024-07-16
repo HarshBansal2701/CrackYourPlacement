@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        // Method -> Sorting and two pointer
+        // Method -> Sorting and three pointer
         // Sort the array and start iterating over it 
         //  in each iteration set two pointer one at next of iterative index and other at end index
         // then apply similar approach as Two Sum
